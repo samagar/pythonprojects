@@ -1,0 +1,3 @@
+# Create Database connection
+
+with SQLite3.connect("flask-blog.db"):
