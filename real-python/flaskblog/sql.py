@@ -1,3 +1,5 @@
+import sqlite3
+
 # Create Database connection
 
 with SQLite3.connect("blog.db") as conn:
